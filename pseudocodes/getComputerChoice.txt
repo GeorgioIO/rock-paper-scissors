@@ -1,0 +1,10 @@
+What Will function take ? Nothing
+What will it return ? "rock" , "paper" or scissors
+
+- Get a random number between 0 and 100
+- IF
+    - number between 0 and 33 ; result = rock
+    - number between 33 and 66 ; result =  paper
+    - number above 66 ; result = scissors
+- ENDIF
+- return result

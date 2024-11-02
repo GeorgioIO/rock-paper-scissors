@@ -1,0 +1,10 @@
+What will the function take ? Nothing
+What will the function return ? either rock , paper or scissors
+
+- WHILE TRUE
+- ask the user for his choice
+    - IF
+        - Choice is one of "rock" , "paper" or "scissors" BREAK outside loop with the choice
+    - ELSE
+        - ask him again
+    - ENDIF
