@@ -1,0 +1,10 @@
+What will the function take ? user rps choice , computer rps choice
+What will the function return ? a string announcing the winner of the round
+
+- COMPARE user choice and computer choice
+- IF user win 
+    - INCREMENT user score by one
+    - return a string saying the user won and why 
+- ELSE
+    - INCREMENT computer score by one
+    - return a string saying the computer won and why

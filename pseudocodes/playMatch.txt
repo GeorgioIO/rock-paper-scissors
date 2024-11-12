@@ -1,0 +1,11 @@
+What will function take ? Nothing
+What will function do ? play 5 rounds of rock paper scissors
+What will function return ? a string declaring the winner
+
+- LOOP 5 Times
+    - GET computer choice
+    - GET user choice
+    - Play round
+- ENDLOOP
+- COMPARE two scores
+- DECLARE the winner

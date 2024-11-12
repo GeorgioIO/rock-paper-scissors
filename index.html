@@ -5,8 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rock paper scissors</title>
     <script defer src="script.js"></script>
+    <link rel="stylesheet" href="./styles/styles.css">
 </head>
 <body>
-    
+    <div class="game-panel">
+        <div class="score-panel">
+            <div class="match-score-container"></div>
+            <div class="round-score-container">  </div>
+        </div>
+        <div class="buttons-container">
+            <button value="rock">Rock</button>
+            <button value="paper">Paper</button>
+            <button value="scissors">Scissors</button>  
+        </div>
+    </div>
+    <div class="winner" style="display: none;">
+        <h1></h1>
+        <p>- Press R to play again -</p>
+    </div>
 </body>
 </html>
